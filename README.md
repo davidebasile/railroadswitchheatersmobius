@@ -1,6 +1,6 @@
 # railroadswitchheatersmobius
-The SAN models of the rail road switch heating system
+The  Stochastic Activity Network model of the rail road switch heating system
 
-This is a SAN model done in Moebius in 2015 and published at JRTPM2016
+This is the Stochastic Activity Network model developed using the Moebius tool (https://www.mobius.illinois.edu/) and to perform experiments  published in JRTPM2016
 
 https://doi.org/10.1016/j.jrtpm.2016.03.003
